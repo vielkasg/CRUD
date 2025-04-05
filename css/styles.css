@@ -1,0 +1,20 @@
+header {
+    height: 100px;
+    background-image: url("pexels-cookiecutter-1148820.jpg");
+    background-position: left;
+    }
+
+  button {
+    margin-right: 30px;
+  }
+
+  header h1 {
+    padding-top: 25px;
+    color: rgb(245, 248, 251);
+    font-family: serif;
+    font-size: xxx-large;
+  }
+
+  #formulario {
+    margin: 0 130px 0 130px;
+  }
